@@ -1,0 +1,8 @@
+C:\Users\imipu\source\repos\assignetment\assignetment\bin\Debug\assignetment.exe.config
+C:\Users\imipu\source\repos\assignetment\assignetment\bin\Debug\assignetment.exe
+C:\Users\imipu\source\repos\assignetment\assignetment\bin\Debug\assignetment.pdb
+C:\Users\imipu\source\repos\assignetment\assignetment\obj\Debug\assignetment.csproj.AssemblyReference.cache
+C:\Users\imipu\source\repos\assignetment\assignetment\obj\Debug\assignetment.csproj.SuggestedBindingRedirects.cache
+C:\Users\imipu\source\repos\assignetment\assignetment\obj\Debug\assignetment.csproj.CoreCompileInputs.cache
+C:\Users\imipu\source\repos\assignetment\assignetment\obj\Debug\assignetment.exe
+C:\Users\imipu\source\repos\assignetment\assignetment\obj\Debug\assignetment.pdb
